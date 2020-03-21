@@ -1,0 +1,21 @@
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+Enter the int number:
+
+sum:  45
